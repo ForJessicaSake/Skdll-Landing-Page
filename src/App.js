@@ -1,12 +1,11 @@
-import Hero from './Components/Hero';
-import Navbar from './Components/Navbar' 
+import Home from "./Components/Home";
+import Navbar from "./Components/Navbar";
 function App() {
   return (
-<main className='font-font px-14 py-10'>
-<Navbar/>
-<Hero/>
-</main>    
+    <main className="font-font py-10">
+      <Navbar />
+      <Home />
+    </main>
   );
 }
-
 export default App;

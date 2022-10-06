@@ -2,7 +2,7 @@ import logo from "../Images/logo.png";
 
 function Navbar() {
   return (
-    <nav className="flex justify-between">
+    <nav className="flex justify-between mr-10 pr-28 pl-28">
 
       <section>
         <img src={logo} alt="'logo" className="w-12" />
