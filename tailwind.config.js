@@ -8,8 +8,7 @@ module.exports = {
                 green: "#54CC8B",
                 Green: "#7bdfa9",
                 black: "#121212",
-
-
+                grey: "#F2F2F2",
             },
             fontFamily: {
                 font: ["Poppins", "sans-serif"],
@@ -19,7 +18,7 @@ module.exports = {
                 wtb: "35rem",
                 wtt: "22rem",
                 wttt: "50rem",
-                fbtn: "52rem",
+                fbtn: "40rem",
                 im: "40rem",
                 bt: "16.5rem",
                 btt: "16rem",
@@ -50,7 +49,7 @@ module.exports = {
                 },
                 smm: {
                     min: "769px",
-                    max: "1024px",
+                    max: "1150px",
                 },   
             }
         },
