@@ -31,7 +31,7 @@ function Content() {
           <img
             src={text}
             alt="question"
-            className=" relative w-48 h-48 left-36  xxs:w-20 xxs:h-20 xms:w-28 xxs:bottom-10 xms:bottom-10 xms:h-28 smm:h-28 smm:left-10 xxs:left-10 xxm:left-12 xxm:h-28 xxm:bottom-6 xms:left-14"
+            className=" relative w-48 h-48 left-36  xxs:w-20 xxs:h-20 xms:w-28 xxs:bottom-10 xms:bottom-10 xms:h-28 smm:h-28 smm:left-10 xxs:left-10 xxm:left-12 xxm:h-16 xxm:w-16 xxm:bottom-6 xms:left-14"
           />
           <img
             src={lady}
