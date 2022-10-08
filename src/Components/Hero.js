@@ -4,15 +4,15 @@ import playstore from "../Images/playstore.png"
 
 function Hero() {
     return(
-  <header className='flex justify-between xms:pl-12 xms:pr-12 xxs:pl-10 xxs:pr-10 pl-28 pr-28 pt-14 xxs:justify-center xxs:flex-col xxm:flex-col  xxm:pl-8 xxm:pr-8 xms:flex-col'>
+  <header className='flex justify-between xms:pl-20 xms:pr-20 xxs:pl-10 xxs:pr-10 pl-28 pr-28 pt-14 xxs:justify-center xxs:flex-col xxm:flex-col  xxm:pl-8 xxm:pr-8 xms:flex-col smm:pl-20 smm:pr-20'>
 
     <section className=' flex flex-col justify-center z-50'> 
-      <hgroup className='text-6xl font-semibold tracking-wide xxs:text-3xl xxs:w-96 xxm:w-96 xxm:text-4xl xms:w-96 xms:text-5xl'>
+      <hgroup className='text-6xl font-semibold tracking-wide xxs:text-3xl xxs:w-96 xxm:w-96 xxm:text-4xl xms:w-96 xms:text-5xl smm:text-5xl'>
             <h1>Scheduling</h1>
             <h1>just got easier!</h1>
       </hgroup>
       <p className='mt-6 text-lg w-96 mb-10 xms:text-sm xms:w-72 xxs:text-xs xxs:w-64 xxm:w-64 xxm:text-sm'>Plan and schedule your day to day tasks and activities easily.</p>
-      <section className='flex justify-between w-80 xxs:w-bt'>
+      <section className='flex justify-between w-80 xxs:w-bt xxm:w-80'>
             <figure className='bg-black text-white w-36 flex p-1 items-center rounded-md xxs:w-28 xxs:p-2'>
           <aside >
             <img src={playstore} alt="" className='w-5 mr-1 ml-1 xxs:w-3' />

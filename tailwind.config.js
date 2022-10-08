@@ -22,8 +22,7 @@ module.exports = {
                 fbtn: "52rem",
                 im: "40rem",
                 bt: "16.5rem",
-
-
+                btt: "16rem",
             },
             height: {
                 ht: "30rem",
@@ -36,12 +35,12 @@ module.exports = {
             },
             screens: {
                 xxs: {
-                    min: "300px",
-                    max: "390px",
+                    min: "0px",
+                    max: "360px",
                 },
                  
                 xxm: {
-                    min: "390px",
+                    min: "361px",
                     max: "500px",
                 },
 
