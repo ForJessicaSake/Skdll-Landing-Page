@@ -19,27 +19,38 @@ module.exports = {
                 wtb: "35rem",
                 wtt: "22rem",
                 wttt: "50rem",
-                fbtn: "61rem",
+                fbtn: "52rem",
                 im: "40rem",
+                bt: "16.5rem",
+
+
             },
             height: {
                 ht: "30rem",
                 htt: "22rem",
             },
             padding: {
-                ptt: "0.6rem",
+                ptt: "0.4rem",
+                ptb: "0.5rem",
+
             },
             screens: {
                 xxs: {
-                    min: "320px",
-                    max: "480px",
+                    min: "300px",
+                    max: "390px",
                 },
+                 
+                xxm: {
+                    min: "390px",
+                    max: "500px",
+                },
+
                 xms: {
-                    min: "481px",
-                    max: "700px",
+                    min: "501px",
+                    max: "768px",
                 },
                 smm: {
-                    min: "700px",
+                    min: "769px",
                     max: "1024px",
                 },   
             }
