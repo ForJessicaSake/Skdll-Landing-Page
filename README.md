@@ -27,7 +27,7 @@ Here are some of the links you should look out for to make navigation on the sit
 
 - The Navigation - Jessica Joseph
 
-- Home Page - Juliet Ofoegbu
+- Home Page - Jessica Joseph
 
 
 <!-- THE PRODUCT LINK -->
