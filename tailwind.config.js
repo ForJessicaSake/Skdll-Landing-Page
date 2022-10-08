@@ -45,10 +45,10 @@ module.exports = {
 
                 xms: {
                     min: "501px",
-                    max: "768px",
+                    max: "738px",
                 },
                 smm: {
-                    min: "769px",
+                    min: "739px",
                     max: "1150px",
                 },   
             }
