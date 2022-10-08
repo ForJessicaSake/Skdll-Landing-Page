@@ -7,7 +7,7 @@ import playstore from "../Images/playstore.png";
 
 function Hero() {
   useEffect(() => {
-    AOS.init();
+    AOS.init({once: true});
   });
 
   return (

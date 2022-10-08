@@ -11,7 +11,7 @@ import ph from "../Images/ph.png";
 
 function Content() {
   useEffect(() => {
-    AOS.init();
+    AOS.init({once: true});
   });
 
   return (
