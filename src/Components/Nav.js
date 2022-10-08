@@ -95,9 +95,9 @@ function Nav() {
                 ref={ref}
                 className="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-black h-screen text-white"
               >
-                <ul className="nav-links flex flex-col items-center justify-center gap-20 mt-10 font-medium ">
+                <ul className="nav-links flex flex-col items-center justify-between h-80 mt-10 font-medium ">
                   <li>
-                    <a href="/" className="border-b-2 border-green">
+                    <a href="/" className="border-b-2 border-green ">
                       Home
                     </a>
                   </li>
